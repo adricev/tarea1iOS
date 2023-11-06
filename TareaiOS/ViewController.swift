@@ -13,11 +13,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    @IBAction func JugarBtn(_ sender: Any) {
-        let storyboard = self.storyboard?.instantiateViewController(withIdentifier:
-            "GameStoryboard") as! gameController
-        
-    }
 
+    
+    @IBAction func JugarBtn(_ sender: Any) {
+        performSegue(withIdentifier: "Play", sender: self)
+    }
+    
 
 }
