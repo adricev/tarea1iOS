@@ -13,7 +13,7 @@
 		3A5FAE832ADFBF1A00467742 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5FAE822ADFBF1A00467742 /* ViewController.swift */; };
 		3A5FAE862ADFBF1A00467742 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A5FAE842ADFBF1A00467742 /* Main.storyboard */; };
 		3A5FAE8B2ADFBF1E00467742 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A5FAE892ADFBF1E00467742 /* LaunchScreen.storyboard */; };
-		3A6D3E912AFA651D00C76709 /* assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D3E902AFA651D00C76709 /* assets.xcassets */; };
+		3AA68FC62AFA68FC00864C3C /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AA68FC52AFA68FC00864C3C /* Media.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		3A5FAE852ADFBF1A00467742 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3A5FAE8A2ADFBF1E00467742 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A5FAE8C2ADFBF1E00467742 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3A6D3E902AFA651D00C76709 /* assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = assets.xcassets; sourceTree = "<group>"; };
+		3AA68FC52AFA68FC00864C3C /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				3A5FAE842ADFBF1A00467742 /* Main.storyboard */,
 				3A5FAE892ADFBF1E00467742 /* LaunchScreen.storyboard */,
 				3A5FAE8C2ADFBF1E00467742 /* Info.plist */,
-				3A6D3E902AFA651D00C76709 /* assets.xcassets */,
+				3AA68FC52AFA68FC00864C3C /* Media.xcassets */,
 			);
 			path = TareaiOS;
 			sourceTree = "<group>";
@@ -129,8 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A5FAE8B2ADFBF1E00467742 /* LaunchScreen.storyboard in Resources */,
+				3AA68FC62AFA68FC00864C3C /* Media.xcassets in Resources */,
 				3A5FAE862ADFBF1A00467742 /* Main.storyboard in Resources */,
-				3A6D3E912AFA651D00C76709 /* assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
